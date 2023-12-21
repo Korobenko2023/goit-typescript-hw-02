@@ -6,8 +6,5 @@ let person: [string, number] = ['Max', 21];
 
 export { };
   
-  
-// let person = ['Max', 21];
 
-// export { };
 
